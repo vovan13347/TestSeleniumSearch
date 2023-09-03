@@ -1,6 +1,5 @@
 
 
-
 import unittest
 import time
 from selenium import webdriver
@@ -32,5 +31,3 @@ class TestSearchInput(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-
-
